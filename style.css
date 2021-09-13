@@ -26,3 +26,9 @@ footer
 {
     text-align:left;
 }
+
+mark
+{
+    background-color: yellow;
+    color: black;
+}
